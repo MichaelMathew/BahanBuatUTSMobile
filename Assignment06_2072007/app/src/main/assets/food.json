@@ -1,0 +1,47 @@
+[
+  {
+    "id" : "1",
+    "nama_makanan" : "Baso Tahu",
+    "harga" : 50000,
+    "rating" : 4.5,
+    "tanggal_pembuatan" : "23 Oktober 2022",
+    "Category" : {"name": "Makanan Berat"}
+  },
+
+  {
+    "id" : "2",
+    "nama_makanan" : "Cakue",
+    "harga" : 10000,
+    "rating" : 4.6,
+    "tanggal_pembuatan" : "2 November 2022",
+    "Category" : {"name": "Makanan Ringan"}
+  },
+
+  {
+    "id" : "3",
+    "nama_makanan" : "Brownies",
+    "harga" : 5000,
+    "rating" : 4.0,
+    "tanggal_pembuatan" : "5 December 2022",
+    "Category" : {"name": "Kue"}
+  },
+
+  {
+    "id" : "4",
+    "nama_makanan" : "Pie Susu",
+    "harga" : 3000,
+    "rating" : 4.8,
+    "tanggal_pembuatan" : "5 September 2022",
+    "Category" : {"name": "Kue"}
+  },
+
+  {
+    "id" : "5",
+    "nama_makanan" : "Lolipop",
+    "harga" : 1500,
+    "rating" : 3.5,
+    "tanggal_pembuatan" : "1 January 2022",
+    "Category" : {"name": "Snack"}
+  }
+
+]
